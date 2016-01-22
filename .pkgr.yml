@@ -8,3 +8,5 @@ build_dependencies:
   - qt-sdk
 
 default_dependencies: false
+
+cli: false
