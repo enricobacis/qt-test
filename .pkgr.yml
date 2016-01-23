@@ -9,4 +9,4 @@ build_dependencies:
 
 default_dependencies: false
 
-cli: qt-test
+cli: Console
