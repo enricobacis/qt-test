@@ -9,4 +9,4 @@ build_dependencies:
 
 default_dependencies: false
 
-cli: ./Console
+cli: ../Console
